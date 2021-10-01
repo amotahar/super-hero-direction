@@ -1,0 +1,17 @@
+.single-president{
+    box-shadow: 10px 10px 30px rgb(185, 183, 183);
+    display: flex;
+    border-radius: 5px;
+}
+.single-president img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    padding: 2px 0px;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.single-president{
+    margin: 14px;
+}
+

@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    background-color: #faf9f8;
+    box-shadow: 10px 10px 30px rgb(224, 221, 221);
+    padding: 10px 0px;
+    margin: 0px 10px 60px 10px;
+    border-radius: 5px;
+}
+.header h1{
+    color: #307EE4;
+}
+.header h3{
+    color: rgb(90, 97, 97);
+}
+.header .budget{
+    color: rgb(255, 55, 55);
+}

@@ -1,0 +1,110 @@
+ [
+  {
+    "id": 1,
+    "name": "Joe Biden",
+    "age": 47,
+    "country": "USA",
+    "email": "joe@email.com",
+    "salary": 490,
+    "img": "https://www.whitehouse.gov/wp-content/uploads/2021/04/P20210303AS-1901-cropped.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bladimir Putin",
+    "age": 37,
+    "country": "Russia",
+    "email": "putin@gmail.com",
+    "salary": 410,
+    "img": "https://static.dw.com/image/57871850_303.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Abdul Hamid",
+    "age": 72,
+    "country": "Bangladesh",
+    "email": "hamid@gmail.com",
+    "salary": 390,
+    "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201802/President-Abdul-Hamid-2.jpeg?kgsiDVTpXtRrwZ8Z1PTdcy3PQjdP7u5s"
+  },
+  {
+    "id": 4,
+    "name": "Xi Jingping",
+    "age": 49,
+    "country": "China",
+    "email": "xi@gmail.com",
+    "salary": 290,
+    "img": "https://ddnews.gov.in/sites/default/files/jingping_1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kim jon",
+    "age": 58,
+    "country": "North Korea",
+    "email": "kim@gmail.com",
+    "salary": 890,
+    "img": "https://english.cdn.zeenews.com/sites/default/files/2020/08/26/881619-kim.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Erdugan",
+    "age": 35,
+    "country": "Turkey",
+    "email": "erduan@gmail.com",
+    "salary": 590,
+    "img": "https://c.files.bbci.co.uk/78AC/production/_100929803_mediaitem100929801.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Macron",
+    "age": 61,
+    "country": "Franch",
+    "email": "macron@email.com",
+    "salary": 349,
+    "img": "https://www.thestatesman.com/wp-content/uploads/2021/09/Islamic.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Borish Johnshon",
+    "age": 39,
+    "country": "United Kingdom",
+    "email": "borish@gmail.com",
+    "salary": 350,
+    "img": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/12/06/Pictures/london-photo-britain-news-conference-johnson-attends_e7c4e304-3797-11eb-a00e-2cd7664e001b.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Steinmeier",
+    "age": 54,
+    "country": "Germany",
+    "email": "steinmeir@gmail.com",
+    "salary": 310,
+    "img": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UU452SHSCFISRDZX7NA2ZDMXHI.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Muhammed Buhari",
+    "age": 69,
+    "country": "Nigeria",
+    "email": "buhari@gmail.com",
+    "salary": 290,
+    "img": "https://www.aljazeera.com/wp-content/uploads/2019/10/85d5379c91ad4e4b949d6a4857a75fe1_18.jpeg?resize=770%2C513"
+  },
+  {
+    "id": 11,
+    "name": "John Smith",
+    "age": 83,
+    "country": "Chili",
+    "email": "smith@gmail.com",
+    "salary": 440,
+    "img": "https://cdnuploads.aa.com.tr/uploads/Contents/2020/01/14/thumbs_b_c_a64ef1dd6bdebad6e393057a6ea5d35c.jpg?v=204449"
+  },
+  {
+    "id": 12,
+    "name": "Halimah",
+    "age": 50,
+    "country": "Singapore",
+    "email": "halimah@email.com",
+    "salary": 490,
+    "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/EF7C/production/_97780316_98697ae1-cc87-425f-9ef2-b7c9c5451313.jpg"
+  }
+]
